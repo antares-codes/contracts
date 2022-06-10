@@ -2,8 +2,8 @@
 // Created by Antares Codes
 pragma solidity >=0.4.22 <0.9.0;
 
-import "/home/console/contract/openzeppelin-contracts/contracts/token/ERC1155/ERC1155.sol';
-import "/home/console/contract/openzeppelin-contracts/contracts/access/Ownable.sol';
+import "/home/console/contract/openzeppelin-contracts/contracts/token/ERC1155/ERC1155.sol";
+import "/home/console/contract/openzeppelin-contracts/contracts/access/Ownable.sol";
 
 contract AntaresCodesNFTs is Ownable, ERC1155 {
     // Base URI
