@@ -1,5 +1,5 @@
 # Antares Codes Contracts
-Contracts for the Antares Codes Project
+Contracts for the Antares Codes Marketplace
 
 nft.sol = Contract for the Antares Codes NFT Marketplace
 
